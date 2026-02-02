@@ -11,20 +11,20 @@ To run the project locally, you need a development environment installed on your
 
 - `Visual Studio Code`
 
-Or any other text editor you like. And internet conection 🌐 to propertly load links.
+Or any other code editor you like. And internet conection 🌐 to propertly load links.
 
 ## Concept
 
-This repository storages code that...
+This repository storages basic styling tags that are already supported by Tumblr, such as <p>, <div>, <br>, <b>/<strong>, <i>, <em>, <u>, <s>/<strike>, <h1> to <h6>, <font>, <img>, <a>, <hr>, <ul>, <li> and <ol>. 😺🪸📀💡🕯️📜🪐⭐
 
-The focuses on ... which... This seeks to...
-You can use this to... 
+It focuses on structure and design, which can help you understand a lil bit how html works and have a template where to start.
+You can use this to customize your own post. 📒
 
-I made this to help people make their tumblr posts prettier. ✨
+This will to help you make tumblr posts prettier. ✨
 
 ## Use case
 
-This small code example from... creates a... showing... according to.. taking by reference... 
+This small code example from... 
 
 ```
 xyz
