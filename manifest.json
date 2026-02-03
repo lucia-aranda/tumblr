@@ -1,25 +1,25 @@
 { 
     "start_url": "/",
-    "short_name": "ΞΧΩ",  
-    "name": "ΞΧΩ",  
-    "description": "Pet project website, consisting of some stuff from 2000s aesthetic, Frutiger Aero. Built with JS, HTML and CSS.",  
-    "background_color": "#000000",  
-    "theme_color": "#000000",  
+    "short_name": "Tumblr: editor and guide",  
+    "name": "Tumblr: editor and guide",  
+    "description": "Real time Tumblr HTML post editor with both, desktop and mobile views, and a guide that you can use to improve your posts.",  
+    "background_color": "#dcc3f5",  
+    "theme_color": "#dcc3f5",  
     "orientation": "portrait",  
     "display": "standalone",  
     "icons":[
       {  
-        "src": "img/exo_xxxhdpi.png",  
+        "src": "img/tumblr_xxxhdpi.png",  
         "type": "image/png",  
         "sizes": "192x192"
       },
       {
-        "src": "img/exo_xxhdpi.png",  
+        "src": "img/tumblr_xxhdpi.png",  
         "type": "image/png",  
         "sizes": "144x144"
       },
       {
-        "src": "img/exo_mdpi.png",  
+        "src": "img/tumblr_mdpi.png",  
         "type": "image/png",  
         "sizes": "48x48"
       }
