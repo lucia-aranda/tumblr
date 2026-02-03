@@ -2,8 +2,15 @@
   <br>
   <img alt="jn" src="img/tumblr-2.png" width="150px">
   <h1>🌷 Tumblr 🌷</h1>
-  <strong>This contains HTML Tumblr customizable templates and resources that you can use for your posts! *:･ﾟ✧</strong>
+  <strong>This contains HTML Tumblr editor and guide that you can use for your posts! *:･ﾟ✧</strong>
 </div>
+
+## Summary
+
+| #   | Section                                                                                        |
+| --- | -----------------------------------------------------------------------------------------------|
+| 🪄   | [Editor](https://lucia-aranda.github.io/tumblr/): HTML input and desktop/movile output.      |
+| 📖   | [Guide](https://lucia-aranda.github.io/tumblr/guide): Text, patterns and multimedia styling. |
 
 ## Prerequisites
 
@@ -11,41 +18,36 @@ To run the project locally, you need a development environment installed on your
 
 - `Visual Studio Code`
 
-Or any other code editor you like. And internet conection 🌐 to propertly load links.
+ This optional VSC extension:
+
+```
+Live Server by Ritwick Dey
+```
+
+Or any other code editor you like. Also internet conection 🌐 to propertly load urls.
 
 ## Concept
 
-This repository storages basic styling tags that are already supported by Tumblr, such as:
+This webpages contains and editor and guide with basic HTML and CSS styling tags that are already supported by Tumblr. 
+With this guide you will learn how to create gradient text, cursive/italic/bold text, font styles, horizontal and vertical 
+colored lines, align text, colored text, font sized, manage links on text and multimedia, multimedia styling and more. 📀
 
-```
-<p>, <div>, <br>, <b>/<strong>, <i>, <em>, <u>, <s>/<strike>, <h1> to <h6>, <font>, <img>, <a>, <hr>, <ul>, <li> and <ol>
-```
-Among some css code to improve their style. 📀
-
-It focuses on structure and design, which can help you understand a lil bit how html works and have a template where to start.
+It focuses on structure and design, which can help you understand a lil bit how html works and know where to start.
 You can use this to customize your own post. 📜
 
 This will to help you make tumblr posts prettier. ✨
 
-## Use case
+## Installation
 
-This small code example from... 
+This is a PWA, wich means you can install it from the browser to your own mobile phone 📱 or desk 💻, searching the installation button on the browser's menu.
 
-```
-xyz
-```
-
-<img src="img/" width="300px">
-<br>
-
-This other code example...
-
-```
-xyz
-```
-
-<img src="img/" width="300px">
+<img alt="CellPhone" src="img/mark_cp.png" width="100px"> <img alt="PersonalComputer" src="img/mark_pc.png" width="100px">
 
 ## Contributing
 
 Feel free to <a>DM me</a> 💬 if you have any question(s)/need help/concern(s) about, or want to contribute! :)
+
+## Quick visualization
+
+<img src="img/page1.png">
+<img src="img/page2.png">
