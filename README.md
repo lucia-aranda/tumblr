@@ -1,16 +1,16 @@
 <div align="center">
   <br>
-  <img alt="jn" src="img/tumblr-2.png" width="150px">
-  <h1>🌷 Tumblr 🌷</h1>
-  <strong>This contains HTML Tumblr editor and guide that you can use for your posts! *:･ﾟ✧</strong>
+  <img alt="jn" src="img/tutipost.png" width="150px">
+  <h1>🌷 TutiPost 🌷</h1>
+  <strong>This contains HTML editor and guide that you can use for your posts! *:･ﾟ✧</strong>
 </div>
 
 ## Summary
 
 | #   | Section                                                                                        |
 | --- | -----------------------------------------------------------------------------------------------|
-| 🪄   | [Editor](https://lucia-aranda.github.io/tumblr/): HTML input and desktop/movile output.      |
-| 📖   | [Guide](https://lucia-aranda.github.io/tumblr/guide): Text, patterns and multimedia styling. |
+| 🪄   | [Editor](https://lucia-aranda.github.io/tutipost/): HTML input and desktop/movile output.      |
+| 📖   | [Guide](https://lucia-aranda.github.io/tutipost/guide): Text, patterns and multimedia styling. |
 
 ## Prerequisites
 
@@ -28,14 +28,14 @@ Or any other code editor you like. Also internet conection 🌐 to propertly loa
 
 ## Concept
 
-This webpages contains and editor and guide with basic HTML and CSS styling tags that are already supported by Tumblr. 
+This webpages contains and editor and guide with basic HTML and CSS styling tags that can help you make personalized posts. 
 With this guide you will learn how to create gradient text, cursive/italic/bold text, font styles, horizontal and vertical 
 colored lines, align text, colored text, font sized, manage links on text and multimedia, multimedia styling and more. 📀
 
 It focuses on structure and design, which can help you understand a lil bit how html works and know where to start.
-You can use this to customize your own post. 📜
+You can use this to customize your own blog/description/quotes/and more. 📜
 
-This will to help you make tumblr posts prettier. ✨
+This will to help you make posts prettier. ✨
 
 ## Installation
 
